@@ -20,7 +20,6 @@
 :root {
   --alipes-font: "Manrope", sans-serif;
   --alipes-font-two: "Teko", sans-serif;
-  --alipes-reey-font: "reeyregular";
   --alipes-gray: #827e78;
   --alipes-gray-rgb: 130, 126, 120;
   --alipes-white: #ffffff;
@@ -294,58 +293,6 @@ a:hover {
   font-weight: 500;
   margin-top: 5px;
   text-transform: uppercase;
-}
-
-.bootstrap-select .btn-light:not(:disabled):not(.disabled).active,
-.bootstrap-select .btn-light:not(:disabled):not(.disabled):active,
-.bootstrap-select .show > .btn-light.dropdown-toggle {
-  -webkit-box-shadow: none !important;
-  box-shadow: none !important;
-  outline: none !important;
-}
-
-.bootstrap-select > .dropdown-toggle {
-  -webkit-box-shadow: none !important;
-  box-shadow: none !important;
-}
-
-.bootstrap-select .dropdown-toggle:focus,
-.bootstrap-select > select.mobile-device:focus + .dropdown-toggle {
-  outline: none !important;
-}
-
-.bootstrap-select .dropdown-menu {
-  border: 0;
-  padding-top: 0;
-  padding-bottom: 0;
-  margin-top: 0;
-  z-index: 991;
-  border-radius: 0;
-}
-
-.bootstrap-select .dropdown-menu > li + li > a {
-  border-top: 1px solid rgba(255, 255, 255, 0.2);
-}
-
-.bootstrap-select .dropdown-menu > li.selected > a {
-  background: var(--alipes-primary);
-  color: #fff;
-}
-
-.bootstrap-select .dropdown-menu > li > a {
-  font-size: 16px;
-  font-weight: 500;
-  padding: 4px 20px;
-  color: #ffffff;
-  background: var(--alipes-base);
-  -webkit-transition: all 0.4s ease;
-  transition: all 0.4s ease;
-}
-
-.bootstrap-select .dropdown-menu > li > a:hover {
-  background: var(--alipes-black);
-  color: var(--alipes-white);
-  cursor: pointer;
 }
 
 .preloader {
