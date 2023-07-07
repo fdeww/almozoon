@@ -77,7 +77,8 @@
   }
 
   .contact-page-google-map {
-    margin-top: 120px;
+    margin-top: 75px;
+    min-height: 350px;
   }
 
   .footer-widget__contact {
@@ -178,12 +179,13 @@
 
   .floor-plan__main-tab-box .tab-buttons .tab-btn {
     display: block;
-    max-width: 175px;
+    /* max-width: 175px; */
     width: 100%;
   }
 
   .contact-page-google-map {
-    margin-top: 120px;
+    margin-top: 75px;
+    min-height: 350px;
   }
 
   .footer-widget__explore {

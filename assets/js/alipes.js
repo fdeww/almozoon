@@ -434,6 +434,8 @@
     }
     thmSwiperInit();
     thmOwlInit();
+
+    $('.floor-plan-popup').magnificPopup({type:'image'});
   });
 
   // window scroll event
