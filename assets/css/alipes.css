@@ -2965,7 +2965,7 @@ a:hover {
 .gallery-three {
   position: relative;
   display: block;
-  padding: 0 0 90px;
+  padding: 0;
 }
 
 .gallery-three .container {
@@ -2976,7 +2976,7 @@ a:hover {
   position: relative;
   display: block;
   text-align: center;
-  margin-top: 90px;
+  margin-top: 150px;
   line-height: 14px;
 }
 
