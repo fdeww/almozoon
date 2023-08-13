@@ -427,6 +427,10 @@ a:hover {
   z-index: 1;
 }
 
+.main-header__top-time a:hover {
+  color: var(--alipes-base);
+}
+
 .main-menu__social:before {
   content: "";
   position: absolute;
@@ -434,7 +438,7 @@ a:hover {
   bottom: 0;
   left: -1000000px;
   right: 0;
-  background-color: #1a150e;
+  background-color: var(--alipes-base);
   z-index: -1;
 }
 

@@ -124,10 +124,6 @@
   margin-left: 0px;
 }
 
-.main-header__contact-list li .text {
-  margin-right: 4px;
-  margin-left: 0px;
-}
 @media (min-width: 1440px) {
   .main-menu__main-menu-box {
     padding-right: 185px;
