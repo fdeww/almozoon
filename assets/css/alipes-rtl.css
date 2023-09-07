@@ -727,3 +727,14 @@
 .gallery-carousel-page {
   padding: 120px 0 182px;
 }
+
+.mfp-close
+{
+  right: unset !important;
+  left: 0 !important;
+}
+
+.mfp-counter
+{
+  direction: ltr;
+}
